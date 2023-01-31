@@ -1,0 +1,10 @@
+inputs,characters,emotions,actions,outputs
+A polite thief was making robberies in the small town.,"['People', 'Man']","[{'People': ['fear'], 'Man': ['anger']}]","[{'People': [], 'Man': ['to catch the thief']}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Man']","[{'People': ['joy'], 'Man': ['joy']}]","[{'People': [], 'Man': []}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Man']","[{'People': ['fear'], 'Man': ['joy']}]","[{'People': [], 'Man': []}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Tom']","[{'People': ['fear'], 'Tom': ['anger']}]","[{'People': [], 'Tom': []}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Tom']","[{'People': ['fear'], 'Tom': ['anger']}]","[{'People': [], 'Tom': ['to catch the thief']}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Tom']","[{'People': ['fear'], 'Tom': ['anger']}]","[{'People': ['call the police'], 'Tom': ['call the police']}]",People afraid the thief but a man want to catch the thief.
+A polite thief was making robberies in the small town.,"['People', 'Tom']","[{'People': ['anger'], 'Tom': ['fear']}]","[{'People': ['call the police'], 'Tom': []}]",People afraid the thief but a man want to catch the thief.
+Dean was working on his roof.,"['Dean', 'Wife']","[{'Dean': ['anticipation'], 'Wife': []}]","[{'Dean': ['set against his house', 'to climb higher', 'to climb'], 'Wife': []}]",He set a ladder against his house.
+Dean was working on his roof.,"['Dean', 'Wife']","[{'Dean': ['anticipation'], 'Wife': []}]","[{'Dean': ['set against his house', 'to climb higher', 'to climb'], 'Wife': []}]",He set a ladder against his house.
